@@ -1,0 +1,3 @@
+include ':myMathLibrary'
+include ':app'
+rootProject.name = "AndroidGithubLibrary"
